@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Wed-dev skills<br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with person with experience<br>🌱 I’m currently learning DSA with C<br>💬 Ask me about my project and skills<br>⚡ I am a psycho coder and learner
+🔭 I’m currently working on my Cyber Security skills<br>👯 I’m looking to collaborate on Open source projects<br>🤝 I’m looking for help with person with experience<br>🌱 I’m currently learning DSA with C<br>💬 Ask me about my project and skills<br>⚡ I am a psycho coder and learner
 
 
 # 💻 Tech Stack:
