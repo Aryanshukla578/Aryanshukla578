@@ -6,6 +6,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Shukla&fontSize=45&fontAlignY=35&desc=Making%20AI%20that%20thinks%2C%20codes%2C%20and%20conquers!&descAlignY=55&descAlign=62"/>
 </p>
 
+<!-- 🎧 Background Music Player -->
+<p align="center">
+  <audio controls autoplay loop>
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+  <br>
+  <i>Background Vibes: Hit Play 🎶</i>
+</p>
+
 <h1 align="center">Hi, I'm Aryan Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">The guy who turns coffee ☕ into real-world AI agents 🤖</h3>
 
@@ -24,7 +34,7 @@
 ## 🔍 Tech Toolbox
 
 ```bash
-Languages: Python 🐍 | C++ ⚔️ | Java ☕ 
+Languages: Python 🐍 | C++ ⚔️ | Java ☕ | 
 Frameworks: FastAPI 🚀 | Flask 🌶️ | Django 🕊️
 AI/ML: DeepFace 🧠 | TensorFlow 🧬 | OpenCV 📸 | AI Agenting 🤖
 Databases: MongoDB 🍃 | MySQL 🐬 | Firebase ✨
