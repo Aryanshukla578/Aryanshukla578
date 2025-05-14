@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Aryan 🌟</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Explorer;Open+Source+Contributor;ML+%7C+AI+%7C+DS+Lover;FastAPI+%7C+DeepFace+Dev;Always+Learning+New+Things!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Explorer;Open+Source+Contributor;ML+%7C+AI+%7C+DS+Lover;AI+Agent+Developer;FastAPI+%7C+DeepFace+Dev;Always+Learning+New+Things!&center=true&width=500&height=45">
 </p>
 
 ---
@@ -11,6 +11,7 @@
 - ✨ Actively exploring **Open Source Projects**
 - ✍️ Always eager to **collaborate** and learn from pros
 - 📚 Deep diving into **DSA with Python**
+- 🤓 Passionate about **AI/ML** and building **AI Agents**
 - 🤓 They call me a **psycho coder** (and a bit of a learning junkie)
 
 ---
