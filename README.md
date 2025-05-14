@@ -8,10 +8,6 @@
 
 <!-- 🎧 Background Music Player -->
 <p align="center">
-  <audio controls autoplay loop>
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-  </audio>
   <br>
   <i>Background Vibes: Hit Play 🎶</i>
 </p>
@@ -27,7 +23,7 @@
 - ✨ Exploring **Open Source**, making devs go "whoa"
 - 🌈 Designing smart apps using **FastAPI**, **DeepFace**, and **Spotify AI**
 - ✍️ Currently grinding **DSA with Python**
-- ✨ Known for building things that **impress the girls** and **stun the boys** 😉
+
 
 ---
 
