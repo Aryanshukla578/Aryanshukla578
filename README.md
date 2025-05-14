@@ -19,7 +19,6 @@
 - ✨ Exploring **Open Source**, making devs go "whoa"
 - 🌈 Designing smart apps using **FastAPI**, **DeepFace**, and **Spotify AI**
 - ✍️ Currently grinding **DSA with Python**
-- ✨ Known for building things that **impress the girls** and **stun the boys** 😉
 
 ---
 
@@ -51,7 +50,7 @@ DevOps: Docker 🐳 | GitHub Actions ⚙️ | GCP ☁️
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanshukla578&layout=compact&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanshukla578&layout=compact&theme=radical&langs_count=8&hide=css,c++,html" width="50%" />
 </p>
 
 ---
