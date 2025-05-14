@@ -1,37 +1,47 @@
-<h1 align="center">Hey there, I'm Aryan 🌟</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Explorer;Open+Source+Contributor;ML+%7C+AI+%7C+DS+Lover;AI+Agent+Developer;FastAPI+%7C+DeepFace+Dev;Always+Learning+New+Things!&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Code+Wizard+%F0%9F%94%A5;AI+Agent+Engineer+%F0%9F%A4%96;Cyber+Warrior+%F0%9F%9B%A1%EF%B8%8F;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Shukla&fontSize=45&fontAlignY=35&desc=Making%20AI%20that%20thinks%2C%20codes%2C%20and%20conquers!&descAlignY=55&descAlign=62"/>
+</p>
+
+<h1 align="center">Hi, I'm Aryan Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">The guy who turns coffee ☕ into real-world AI agents 🤖</h3>
 
 ---
 
 ## 🔍 About Me
 
-- 🚀 Currently sharpening my **Cybersecurity** skills
-- ✨ Actively exploring **Open Source Projects**
-- ✍️ Always eager to **collaborate** and learn from pros
-- 📚 Deep diving into **DSA with Python**
-- 🤓 Passionate about **AI/ML** and building **AI Agents**
-- 🤓 They call me a **psycho coder** (and a bit of a learning junkie)
+- 🚀 Building **AI/ML models**, **AI Agents**, and pushing boundaries of automation
+- ✨ Exploring **Open Source**, making devs go "whoa"
+- 🌈 Designing smart apps using **FastAPI**, **DeepFace**, and **Spotify AI**
+- ✍️ Currently grinding **DSA with Python**
+
 
 ---
 
-## 👨‍💻 Tech Stack & Tools
+## 🔍 Tech Toolbox
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,fastapi,flask,django,nodejs,rust,ruby,mongodb,mysql,sequelize,tensorflow,numpy,pandas,matplotlib,git,docker,gcloud&perline=10"/>
-</p>
-
----
-
-## 🌐 My Web Presence
-
-- 🌐 [**Portfolio**](https://portfolio-chi-black-25.vercel.app/)
-- 🔗 [**Live Project Demo**](https://v0-image-analysis-aom8w9a07-aryanshukla578s-projects.vercel.app/)
+```bash
+Languages: Python 🐍 | C++ ⚔️ | Java ☕ 
+Frameworks: FastAPI 🚀 | Flask 🌶️ | Django 🕊️
+AI/ML: DeepFace 🧠 | TensorFlow 🧬 | OpenCV 📸 | AI Agenting 🤖
+Databases: MongoDB 🍃 | MySQL 🐬 | Firebase ✨
+DevOps: Docker 🐳 | GitHub Actions ⚙️ | GCP ☁️
+```
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 My Links
+
+- 🌐 [**Live Demo**](https://v0-image-analysis-aom8w9a07-aryanshukla578s-projects.vercel.app/)
+- 🧠 [**Portfolio**](https://portfolio-chi-black-25.vercel.app/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/aryanshukla578)
+
+---
+
+## 📊 GitHub Vibes
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aryanshukla578&theme=radical&show_icons=true" width="48%" />
@@ -44,15 +54,15 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Dev Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanshukla578&theme=algolia&no-frame=true&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanshukla578&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
-## 🎭 Quote of the Day
+## 🎭 Code Vibe Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -60,7 +70,7 @@
 
 ---
 
-## 📍 Visitor Counter
+## 📍 Visitor Count
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Aryanshukla578&label=Profile%20Views&color=12&icon=2&pretty=true" />
@@ -68,7 +78,21 @@
 
 ---
 
+### 🌟 Final Words
+
 <p align="center">
-  <i>✨ Crafted with passion and bugs. Because what's a coder without a few segfaults? ✨</i><br>
-  <sub>Powered by <a href="https://gprm.itsvg.in">GPRM</a>, <a href="https://vercel.com">Vercel</a>, and <a href="https://skillicons.dev">Skillicons</a>.</sub>
+  <i>“Built with passion, bugs, caffeine, and a dream of changing the world with code.”</i><br>
+  <sub>Designed to impress. Engineered to stun. Ready to deploy — like a code sniper. ✨</sub>
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke"/>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/YVqKZzRKZtYAAAAC/hacker.gif" width="300"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer"/>
 </p>
