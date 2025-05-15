@@ -1,72 +1,90 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Code+Wizard+%F0%9F%94%A5;AI+Agent+Engineer+%F0%9F%A4%96;Cyber+Warrior+%F0%9F%9B%A1%EF%B8%8F;Always+Learning+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=AI+Agent+Engineer+🧠;Building+Tech+with+Purpose+%F0%9F%9A%80;Solving+Real-World+Problems+%F0%9F%94%A5;Coding+for+Impact+%F0%9F%A7%AA;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Shukla&fontSize=45&fontAlignY=35&desc=Making%20AI%20that%20thinks%2C%20codes%2C%20and%20conquers!&descAlignY=55&descAlign=62"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aryan%20Shukla&fontSize=45&fontAlignY=35&desc=Engineer.%20Creator.%20Dreamer.%20AI%20in%20Action!&descAlignY=55&descAlign=60"/>
 </p>
 
-
-
-<h1 align="center">Hi, I'm Aryan Shukla <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">The guy who turns coffee ☕ into real-world AI agents 🤖</h3>
+<h1 align="center">Hi, I'm Aryan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">AI Agent Engineer | Tech for Good Advocate | Startup Mindset 🚀</h3>
 
 ---
 
-## 🔍 About Me
+## 🧠 Who Am I?
 
-- 🚀 Building **AI/ML models**, **AI Agents**, and pushing boundaries of automation
-- ✨ Exploring **Open Source**, making devs go "whoa"
-- 🌈 Designing smart apps using **FastAPI**, **DeepFace**, and **Spotify AI**
-- ✍️ Currently grinding **DSA with Python**
+I'm Aryan Shukla — a creator who blends **code with purpose**. I build AI-driven systems that do more than just "work" — they **solve real-world problems**, spark innovation, and deliver **impact**.
+
+From **emotion-aware music generators** to **AI-based lost luggage detection**, I'm always working on something that merges creativity with intelligence. I don't just write code — I craft intelligent systems.
 
 ---
 
-## 🔍 Tech Toolbox
+## 🚀 What I Do
+
+- 💡 Build **AI/ML models** & autonomous **AI agents**
+- 🎯 Engineer full-stack apps using **FastAPI**, **MongoDB**, and **modern JS**
+- 🎵 Fuse tech with emotion – **Spotify AI**, **DeepFace**, & CV projects
+- 🔒 Explore **cybersecurity** with a defender’s mindset
+- 🧠 Currently exploring **ResNet**, **Real-Time Vision**, and **AI automation**
+
+---
+
+## 🛠️ My Toolbox
 
 ```bash
-Languages: Python 🐍 | JS ⚡ | Java ☕ | C++ ⚔️ | Rust 🔩
-Frameworks: FastAPI 🚀 | Flask 🌶️ | Django 🕊️
-AI/ML: DeepFace 🧠 | TensorFlow 🧬 | OpenCV 📸 | AI Agenting 🤖
-Databases: MongoDB 🍃 | MySQL 🐬 | Firebase ✨
-DevOps: Docker 🐳 | GitHub Actions ⚙️ | GCP ☁️
+Languages:    Python 🐍 | Java ☕ | JavaScript ⚡ | C++ ⚔️ | Rust 🔩
+AI/ML:        TensorFlow 🧬 | OpenCV 📸 | DeepFace 🧠 | Scikit-learn | AI Agenting 🤖
+Frameworks:   FastAPI 🚀 | Flask 🌶️ | Django 🕊️ | Node.js 🔧
+Databases:    MongoDB 🍃 | Firebase 🔥 | MySQL 🐬
+DevOps:       Docker 🐳 | GitHub Actions ⚙️ | GCP ☁️ | Vercel 🚀
 ```
 
 ---
 
-## 🔗 My Links
+## 🌐 Explore My Work
 
-- 🌐 [**Live Demo**](https://v0-image-analysis-aom8w9a07-aryanshukla578s-projects.vercel.app/)
+- 🔴 [**Live Project**](https://v0-image-analysis-aom8w9a07-aryanshukla578s-projects.vercel.app/)
 - 🧠 [**Portfolio**](https://portfolio-chi-black-25.vercel.app/)
 - 💼 [**LinkedIn**](https://www.linkedin.com/in/aryanshukla578)
+- 📦 [**NPM Packages (Coming Soon)**](#)
 
 ---
 
-## 📊 GitHub Vibes
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryanshukla578&theme=radical&show_icons=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanshukla578&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aryanshukla578&theme=tokyonight&show_icons=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryanshukla578&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanshukla578&layout=compact&theme=radical&langs_count=8&hide=css,c++,html" width="50%" />
-</p>
-
----
-
-## 🏆 Dev Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aryanshukla578&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanshukla578&layout=compact&theme=tokyonight&langs_count=8" width="50%" />
 </p>
 
 ---
 
-## 🎭 Code Vibe Quote
+## 🏆 Trophies & Contributions
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aryanshukla578&theme=onedark&no-frame=false&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 💡 Code Philosophy
+
+> “I don’t build just features — I build **experiences**. Every line of code should mean something.”
+
+---
+
+## 😄 Fun Bits
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke"/>
+</p>
+
+<p align="center">
+  <img src="https://media.tenor.com/YVqKZzRKZtYAAAAC/hacker.gif" width="300"/>
 </p>
 
 ---
@@ -79,19 +97,9 @@ DevOps: Docker 🐳 | GitHub Actions ⚙️ | GCP ☁️
 
 ---
 
-### 🌟 Final Words
-
 <p align="center">
-  <i>“Built with passion, bugs, caffeine, and a dream of changing the world with code.”</i><br>
-  <sub>Designed to impress. Engineered to stun. Ready to deploy — like a code sniper. ✨</sub>
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Joke"/>
-</p>
-
-<p align="center">
-  <img src="https://media.tenor.com/YVqKZzRKZtYAAAAC/hacker.gif" width="300"/>
+  <i>Crafted with ❤️, caffeine ☕, and a drive to reshape the world through AI.</i><br>
+  <sub>“Built for impact. Designed with passion. Always ready for the next leap.”</sub>
 </p>
 
 <p align="center">
