@@ -73,7 +73,7 @@
 
 ## 🌐 Connect with Me
 
-- 🔗 [Portfolio](https://portfolio-chi-black-25.vercel.app/)
+- 🔗 [Portfolio](https://neural-neon-agents.lovable.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/aryanshukla578)
 - 🐙 [GitHub](https://github.com/Aryanshukla578)
 - 📫 Email: [as3061693@gmail.com](mailto:as3061693@gmail.com)
