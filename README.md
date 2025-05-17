@@ -49,7 +49,7 @@
 | Name | Description | Live Demo |
 |------|-------------|------------|
 | **Mindful Connect** | Real-time emotion-based music player using DeepFace + FastAPI | [Live ↗](https://mindful-connect-drab.vercel.app/) |
-| **Cyber Cop Agent** | An AI Agent that scans for vulnerabilities in web apps (XSS, SQLi, open endpoints) | _Private Repo_ |
+| **Cyber Cop Agent** | An AI Agent that scans for vulnerabilities in web apps (XSS, SQLi, open endpoints) | [Live ↗](https://cyber-sleuth-guard.lovable.app/) |
 | **Real Estate Guide** | A smart real estate assistant built with ML & user insights | [Live ↗](https://real-state-guides-git-main-aryanshukla578s-projects.vercel.app/) |
 
 ---
