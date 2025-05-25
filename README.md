@@ -13,7 +13,7 @@
 - 🧠 Focused on **AI + Cybersecurity + Real-time Agenting** to shape a safer and smarter digital future
 - 🤖 Currently working on: `Cyber Cop Chatbot Agent` – a bot that detects XSS, SQLi & alerts devs 🔐
 - ✨ Always exploring new AI ideas that are missing in the market
-- 💡 Bringing ideas to life that *impress girls* and *leave coders shook* 😎
+- 💡 Bringing ideas to life that  *leave coders shook* 😎
 
 ---
 
